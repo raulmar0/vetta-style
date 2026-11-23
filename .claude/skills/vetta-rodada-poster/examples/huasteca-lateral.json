@@ -1,0 +1,61 @@
+{
+  "slug": "huasteca-lateral",
+  "label": "Rodada grupal · 80 km",
+  "headline": "huasteca\n+ lateral",
+  "headline_dot": true,
+  "details": [
+    {
+      "icon": "fecha",
+      "text": "domingo 22 de noviembre"
+    },
+    {
+      "icon": "pin",
+      "text": "nos vemos en BSMX"
+    },
+    {
+      "icon": "hora",
+      "text": "cita a las 6:15 a. m."
+    },
+    {
+      "icon": "bici",
+      "text": "salida a las 6:30 a. m."
+    },
+    {
+      "icon": "nivel",
+      "text": "nivel avanzado"
+    }
+  ],
+  "photo": {
+    "src": "fotos/tu-foto.jpg",
+    "alt": "Ciclista con su bicicleta frente a los picos de La Huasteca",
+    "top": 180,
+    "story_top": 360,
+    "clean_top_rows": 100
+  },
+  "top_soft": 1.16,
+  "topo_focus": [
+    51,
+    65
+  ],
+  "logos": [
+    {
+      "src": "brand/logos/bsmx-logo-white.png",
+      "alt": "BSMX BicycleStore.mx",
+      "scale": 0.45
+    },
+    {
+      "src": "brand/logos/vetta-logo-white.png",
+      "alt": "Vetta Pro Cycling",
+      "scale": 0.3729
+    },
+    {
+      "src": "brand/logos/rusela-logo-white.png",
+      "alt": "Rusela Recovery Kitchen",
+      "scale": 0.5238
+    }
+  ],
+  "formats": [
+    "post",
+    "story"
+  ]
+}

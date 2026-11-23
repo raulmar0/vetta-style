@@ -1,0 +1,12 @@
+{
+  "name": "vetta-style",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lienzo creativo y skill para generar pósters y contenido visual en el estilo oficial de Vetta Pro Cycling (Post 1080x1440 y Story 1080x1920)",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "playwright": "^1.50.0"
+  }
+}

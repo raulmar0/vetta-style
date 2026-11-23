@@ -1,0 +1,58 @@
+{
+  "slug": "rodada-la-huasteca",
+  "label": "Rodada grupal · 80km",
+  "headline": "la huasteca",
+  "headline_dot": true,
+  "details": [
+    {
+      "icon": "fecha",
+      "text": "domingo 22 de noviembre"
+    },
+    {
+      "icon": "hora",
+      "text": "cita 6:15am · salida 6:30am"
+    },
+    {
+      "icon": "tienda",
+      "text": "salida desde BSMX"
+    },
+    {
+      "icon": "montana",
+      "text": "BSMX - Huasteca + Lateral"
+    },
+    {
+      "icon": "nivel",
+      "text": "nivel avanzado"
+    }
+  ],
+  "photo": {
+    "src": "fotos/tu-foto.jpg",
+    "alt": "Dos ciclistas en sprint por carretera",
+    "top": 200,
+    "story_top": 350,
+    "clean_top_rows": 125,
+    "zoom": 1,
+    "focus_x": 0.5
+  },
+  "logos": [
+    {
+      "src": "brand/logos/bsmx-logo-white.png",
+      "alt": "BSMX BicycleStore.mx",
+      "scale": 0.45
+    },
+    {
+      "src": "brand/logos/vetta-logo-white.png",
+      "alt": "Vetta Pro Cycling",
+      "scale": 0.3729
+    },
+    {
+      "src": "brand/logos/rusela-logo-white.png",
+      "alt": "Rusela Recovery Kitchen",
+      "scale": 0.5238
+    }
+  ],
+  "formats": [
+    "post",
+    "story"
+  ]
+}

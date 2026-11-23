@@ -1,0 +1,50 @@
+{
+  "slug": "sube-de-nivel",
+  "label": "Rodadas semanales · Monterrey",
+  "headline": "sube de\nnivel",
+  "headline_dot": true,
+  "details": [
+    {
+      "icon": "montana",
+      "text": "La Huasteca, Chipinque y ruta"
+    },
+    {
+      "icon": "grupo",
+      "text": "más de 5 rodadas cada semana"
+    },
+    {
+      "icon": "nivel",
+      "text": "nivel intermedio y avanzado"
+    },
+    {
+      "icon": "info",
+      "text": "únete en @vettaprocycling"
+    }
+  ],
+  "photo": {
+    "src": "fotos/tu-foto.jpg",
+    "alt": "Pelotón de Vetta Pro Cycling subiendo por carretera de montaña",
+    "top": 20,
+    "story_top": 260,
+    "clean_top_rows": 140,
+    "zoom": 1.14,
+    "focus_x": 0.35
+  },
+  "top_soft": 1.22,
+  "topo_focus": [
+    50,
+    62
+  ],
+  "topo_seed": 7,
+  "logos": [
+    {
+      "src": "brand/logos/vetta-logo-white.png",
+      "alt": "Vetta Pro Cycling",
+      "scale": 0.3729
+    }
+  ],
+  "formats": [
+    "post",
+    "story"
+  ]
+}
